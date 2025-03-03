@@ -9,4 +9,4 @@
 - Envia tudo isso para uma webhook do discord personalizada
 
 ## Coming Soon
-- Session - Gerêncie todos os computadores que estão com o YkarusDefense
+- Session - Gerencie todos os computadores que estão com o YkarusDefense
